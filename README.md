@@ -1,2 +1,2 @@
-# whois-docker
-An Alpine based Whois docker image
+# mkpasswd-docker
+The smallest docker container to run mkpasswd
